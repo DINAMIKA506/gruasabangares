@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gruasabangares.com/sitemap.xml
+Sitemap: https://www.gruasabangares.com/sitemap.xml
