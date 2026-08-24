@@ -1,0 +1,16 @@
+{
+  "name": "Grúas Abangareñas",
+  "short_name": "Grúas Abangareñas",
+  "description": "Grúas y asistencia en carretera 24/7 en Guanacaste.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2354d8",
+  "icons": [
+    {
+      "src": "assets/1987d485f6f8e356f7d3a73302d965c3.png",
+      "sizes": "799x638",
+      "type": "image/png"
+    }
+  ]
+}
